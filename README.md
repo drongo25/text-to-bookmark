@@ -112,3 +112,6 @@ text-to-bookmark links.txt bookmarks.html --author="John Doe" --date="2024-05-31
 This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
 
 **Note:** While customization options like style, author, and date may not reflect in web browsers as they override the default styles, feel free to use them to create bookmarks that look good and function as intended. Future updates may address this limitation.
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=gurjeetsinghvirdee/text-to-bookmark@github)](https://gitads.dev/v1/ad-track?source=gurjeetsinghvirdee/text-to-bookmark@github)
